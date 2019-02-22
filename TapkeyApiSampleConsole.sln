@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthHelpers", "OAuthHelpers\OAuthHelpers.csproj", "{329D6BA6-68A1-4048-8B59-578822379C64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuthHelpers", "src\OAuthHelpers\OAuthHelpers.csproj", "{329D6BA6-68A1-4048-8B59-578822379C64}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TapkeyApiSampleConsole CSharp .NET Core", "TapkeyApiSampleConsole CSharp .NET Core 2.0\TapkeyApiSampleConsole CSharp .NET Core.csproj", "{8398651D-F073-4AFD-8E7D-721E7F94FAC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TapkeyApiSampleConsole CSharp .NET Core", "src\TapkeyApiSampleConsole CSharp .NET Core 2.0\TapkeyApiSampleConsole CSharp .NET Core.csproj", "{8398651D-F073-4AFD-8E7D-721E7F94FAC9}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TapkeyApiSampleConsole Visual Basic .NET Framework 4.6", "TapkeyApiSampleConsole Visual Basic .NET Framework 4.6\TapkeyApiSampleConsole Visual Basic .NET Framework 4.6.vbproj", "{551088C5-1A87-4BB3-841C-5C7B47820E00}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TapkeyApiSampleConsole Visual Basic .NET Framework 4.6", "src\TapkeyApiSampleConsole Visual Basic .NET Framework 4.6\TapkeyApiSampleConsole Visual Basic .NET Framework 4.6.vbproj", "{551088C5-1A87-4BB3-841C-5C7B47820E00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
